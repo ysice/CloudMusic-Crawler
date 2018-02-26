@@ -56,6 +56,8 @@
 ```
 virtualenv newenv
 
+source newenv/bin/activate
+
 git clone https://github.com/GreatV/CloudMusic-Crawler.git
 
 cd CloudMusic-Crawler
